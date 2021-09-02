@@ -1,0 +1,5 @@
+setup.py
+gzk_ppackage.egg-info/PKG-INFO
+gzk_ppackage.egg-info/SOURCES.txt
+gzk_ppackage.egg-info/dependency_links.txt
+gzk_ppackage.egg-info/top_level.txt
